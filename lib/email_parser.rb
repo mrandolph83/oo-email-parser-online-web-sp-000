@@ -10,6 +10,6 @@ def initialize(emails)
 end
 
 def parser(emails)
-  
+
 
 end
